@@ -1,0 +1,24 @@
+[
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-1",
+    "password": "password-1",
+    "role": "Customer",
+    "token": "f354128c-4e2d-4b56-8a5b-65b12f53256a"
+  },
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-2",
+    "password": "password-1",
+    "role": "Customer",
+    "token": "1a75392d-ef7f-4fb2-8b88-998fa743e01d"
+  },
+  {
+    "login": "login-4",
+    "password": "password-1",
+    "role": "Admin",
+    "token": "bbacbf6a-8b9f-44a3-9393-186b34a34d64"
+  }
+]

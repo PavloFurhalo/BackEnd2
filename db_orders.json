@@ -1,0 +1,55 @@
+[
+  {
+    "from": "address - 1",
+    "to": "address - 2",
+    "login": "login-1",
+    "createdAt": "2024-04-23T23:00:00.000Z",
+    "status": "Active",
+    "id": "eadad8e7-81a7-4d1e-a5a1-5e28f767168c",
+    "distance": "1774 km",
+    "price": 0
+  },
+  {
+    "from": "address - 1",
+    "to": "address - 2",
+    "type": "lite",
+    "login": "login-1",
+    "createdAt": "2024-04-23T23:00:00.000Z",
+    "status": "Active",
+    "id": "5a54b2be-f561-44aa-9965-aaadd22711bb",
+    "distance": "1774 km",
+    "price": 1774
+  },
+  {
+    "from": "address - 1",
+    "to": "address - 2",
+    "type": "standart",
+    "login": "login-2",
+    "createdAt": "2024-04-23T23:00:00.000Z",
+    "status": "Active",
+    "id": "892db57c-c5e4-4c39-9d5b-fa5536cc38c8",
+    "distance": "1774 km",
+    "price": 3548
+  },
+  {
+    "from": "address - 1",
+    "to": "address - 2",
+    "login": "login-4",
+    "createdAt": "2024-04-23T23:00:00.000Z",
+    "status": "Active",
+    "id": "585a557a-98fd-4eaa-bf71-12ef13c69321",
+    "distance": "1774 km",
+    "price": 0
+  },
+  {
+    "from": "address - 1",
+    "to": "address - 2",
+    "type": "standart",
+    "login": "login-4",
+    "createdAt": "2024-04-23T23:00:00.000Z",
+    "status": "Active",
+    "id": "94d03663-475c-4e09-9bca-12832cbaa73b",
+    "distance": "1774 km",
+    "price": 3548
+  }
+]
