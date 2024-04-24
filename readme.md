@@ -79,7 +79,7 @@ body { login: string, password: string }
 
 Для користувачів з ролю "Admin", необхідно повертати всі замовлення -->
 
-## 6
+<!--## 6
 
 Оновити логіку роботи АПІ
 PATCH /orders/:orderId
